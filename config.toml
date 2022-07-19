@@ -25,7 +25,7 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/bpmn/exercises'
+  homepage_button_link = '/exercises'
   homepage_button_text = 'See BPMN exercises '
   homepage_intro = 'Welcome to the exercises for the BPMN Training'
   
