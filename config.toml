@@ -33,5 +33,5 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.logo]
-      mobile = "/exercises/images/logo-mobile.svg"
-      standard  = "/exercises/images/logo.svg"
+      mobile = "/bpmn/images/logo-mobile.svg"
+      standard  = "/bpmn/images/logo.svg"
