@@ -1,4 +1,4 @@
-baseURL = "https://bassgelo.github.io/bpmn"
+baseURL = "https://bassgelo.github.io/bpmn" # CHANGE HERE FOR THE WEB
 languageCode = "en-us"
 title = "BPMN Training"
 themesDir = "themes"
@@ -20,7 +20,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "BPMN"
-    url = "/exercises/"
+    url = "/exercises/" # CHANGE HERE FOR THE WEB
     weight = 2
 
 [params]
