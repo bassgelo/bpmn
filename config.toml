@@ -20,7 +20,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "BPMN"
-    url = "/bpmn/exercises/" # CHANGE HERE FOR THE WEB
+    url = "/exercises/" # CHANGE HERE FOR THE WEB
     weight = 2
 
 [params]
