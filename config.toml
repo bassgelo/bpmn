@@ -20,12 +20,12 @@ summaryLength = 30
 
 [[menu.main]]
     name = "BPMN"
-    url = "/bpmn/"
+    url = "/exercises/"
     weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/bpmn'
+  homepage_button_link = '/exercises'
   homepage_button_text = 'See BPMN exercises '
   homepage_intro = 'Welcome to the exercises for the BPMN Training'
   

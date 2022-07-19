@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BPMN Training exercises on BPMN Training</title>
-    <link>/</link>
-    <description>Recent content in BPMN Training exercises on BPMN Training</description>
+    <title>Overview on BPMN Training</title>
+    <link>/exercises/</link>
+    <description>Recent content in Overview on BPMN Training</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/exercises/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dispatch of goods</title>
       <link>/exercises/dispatch-of-goods/</link>

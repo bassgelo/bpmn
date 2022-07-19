@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/bpmn/</loc>
+    <loc>/exercises/</loc>
   </url><url>
-    <loc>/bpmn/dispatch-of-goods/</loc>
+    <loc>/exercises/dispatch-of-goods/</loc>
   </url><url>
-    <loc>/bpmn/eliminate-join/</loc>
+    <loc>/exercises/eliminate-join/</loc>
   </url><url>
-    <loc>/bpmn/handling-problems/</loc>
+    <loc>/exercises/handling-problems/</loc>
   </url><url>
-    <loc>/bpmn/pizza-order-calm-customer/</loc>
+    <loc>/exercises/pizza-order-calm-customer/</loc>
   </url><url>
-    <loc>/bpmn/pizza-order-interrupting/</loc>
+    <loc>/exercises/pizza-order-interrupting/</loc>
   </url><url>
-    <loc>/bpmn/recourse/</loc>
+    <loc>/exercises/recourse/</loc>
   </url><url>
-    <loc>/bpmn/self-service-restaurant/</loc>
+    <loc>/exercises/self-service-restaurant/</loc>
   </url><url>
-    <loc>/bpmn/unfortunate-style/</loc>
+    <loc>/exercises/unfortunate-style/</loc>
   </url><url>
     <loc>/</loc>
   </url><url>
