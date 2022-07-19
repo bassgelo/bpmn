@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/exercises/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/</loc>
   </url><url>
-    <loc>/exercises/dispatch-of-goods/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/dispatch-of-goods/</loc>
   </url><url>
-    <loc>/exercises/eliminate-join/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/eliminate-join/</loc>
   </url><url>
-    <loc>/exercises/handling-problems/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/handling-problems/</loc>
   </url><url>
-    <loc>/exercises/pizza-order-calm-customer/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/pizza-order-calm-customer/</loc>
   </url><url>
-    <loc>/exercises/pizza-order-interrupting/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/pizza-order-interrupting/</loc>
   </url><url>
-    <loc>/exercises/recourse/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/recourse/</loc>
   </url><url>
-    <loc>/exercises/self-service-restaurant/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/self-service-restaurant/</loc>
   </url><url>
-    <loc>/exercises/unfortunate-style/</loc>
+    <loc>https://bassgelo.github.io/bpmn/exercises/unfortunate-style/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://bassgelo.github.io/bpmn/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://bassgelo.github.io/bpmn/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://bassgelo.github.io/bpmn/tags/</loc>
   </url>
 </urlset>
