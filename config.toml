@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://bassgelo.github.io/bpmn"
 languageCode = "en-us"
 title = "BPMN Training"
 themesDir = "themes"
