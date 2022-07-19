@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/bpmn/</loc>
+  </url><url>
+    <loc>/bpmn/dispatch-of-goods/</loc>
+  </url><url>
+    <loc>/bpmn/eliminate-join/</loc>
+  </url><url>
+    <loc>/bpmn/handling-problems/</loc>
+  </url><url>
+    <loc>/bpmn/pizza-order-calm-customer/</loc>
+  </url><url>
+    <loc>/bpmn/pizza-order-interrupting/</loc>
+  </url><url>
+    <loc>/bpmn/recourse/</loc>
+  </url><url>
+    <loc>/bpmn/self-service-restaurant/</loc>
+  </url><url>
+    <loc>/bpmn/unfortunate-style/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

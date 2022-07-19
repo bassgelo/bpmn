@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "BPMN Training"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "BPMN"
+    url = "/bpmn/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/bpmn'
+  homepage_button_text = 'See BPMN exercises '
+  homepage_intro = 'Welcome to the exercises for the BPMN Training'
+  
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
